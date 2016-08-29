@@ -1,4 +1,6 @@
-# README
+Udemy - 8 beautiful ruby on rails apps in 30 days
+
+App # 6
 
 Skill that i learnt
 
@@ -8,3 +10,4 @@ Skill that i learnt
 
 * completed_at features
  
+ https://ainor-projectmgmt.herokuapp.com/
